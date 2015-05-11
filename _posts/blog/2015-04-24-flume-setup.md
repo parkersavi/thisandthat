@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apache Flume Tutorial — Setup
+title: "Apache Flume Tutorial — Setup"
 description: "Downloading and setting up flume"
 tags: [flume,tutorial]
 image:
