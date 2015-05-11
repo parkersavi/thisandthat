@@ -7,7 +7,9 @@ image:
   background: triangular.png
 ---
 
-**Objective**: To setup flume on one machine
+
+
+Objective: To setup flume on one machine
 
 Setting up flume is very easy. Follow the steps below to get started
 
