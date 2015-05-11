@@ -2,6 +2,7 @@
 layout: post
 title: "Apache Flume Tutorial — Setup"
 description: "Downloading and setting up flume"
+categories: blog
 tags: [flume,tutorial]
 image:
   background: triangular.png
