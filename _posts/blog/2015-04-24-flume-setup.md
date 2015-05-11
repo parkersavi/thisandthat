@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Apache Flume Tutorial — Setup"
-description: "Downloading and setting up flume"
 categories: blog
 tags: [flume,tutorial]
 image:
@@ -9,7 +8,7 @@ image:
 ---
 
 **Objective**: To setup flume on one machine
----
+
 Setting up flume is very easy. Follow the steps below to get started
 
  Download flume and un-tar it
