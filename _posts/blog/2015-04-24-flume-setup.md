@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Apache Flume Tutorial — Setup"
+title: "Apache Flume Tutorial - Setup"
+modified:
 categories: blog
+excerpt:
 tags: [flume,tutorial]
 image:
-  background: triangular.png
+  feature:
+date: 2015-05-08T15:39:55-04:00
 ---
 
-
-
-Objective: To setup flume on one machine
+**Objective**: To setup flume on one machine
 
 Setting up flume is very easy. Follow the steps below to get started
 
@@ -17,7 +18,7 @@ Setting up flume is very easy. Follow the steps below to get started
 {% highlight css %}
 wget http://mirror.cc.columbia.edu/pub/software/apache/flume/1.5.0.1/apache-flume-1.5.0.1-bin.tar.gz
  
-tar xvfz apache-flume-1.5.0.1.bin.tar.gz
+tar xvfz apache-flume-1.5.0.1-bin.tar.gz
  {% endhighlight %}
 
 

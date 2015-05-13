@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: This And That
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
-logo: site-logo.png
+description: 
+logo: 
 url: //thisandthat.io
 
 # Jekyll configuration
