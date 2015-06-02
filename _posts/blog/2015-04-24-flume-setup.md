@@ -16,9 +16,9 @@ Setting up flume is very easy. Follow the steps below to get started
 
  Download flume and un-tar it
 {% highlight css %}
-wget http://mirror.cc.columbia.edu/pub/software/apache/flume/1.5.0.1/apache-flume-1.5.0.1-bin.tar.gz
+wget http://mirror.nexcess.net/apache/flume/1.6.0/apache-flume-1.6.0-bin.tar.gz
  
-tar xvfz apache-flume-1.5.0.1-bin.tar.gz
+tar xvfz apache-flume-1.6.0-bin.tar.gz
  {% endhighlight %}
 
 
