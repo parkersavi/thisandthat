@@ -36,7 +36,7 @@ Configure Flume to monitor it using Jconsole
 	-Djava.rmi.server.hostname=[IP_ADDRESS_OF_YOUR_FLUME_SERVER]"
 	{% endhighlight %}
 
- 	**NOTE** : Make sure the PORT is open on your machine. The port will be the same for both com.sun.management.jmxremote.port and com.sun.management.jmxremote.rmi.port
+ 	**NOTE**: Make sure the PORT is open on your machine. The port will be the same for both com.sun.management.jmxremote.port and com.sun.management.jmxremote.rmi.port
 
 **Step 4:** If flume is already running then restart it by killing the flume process
 
